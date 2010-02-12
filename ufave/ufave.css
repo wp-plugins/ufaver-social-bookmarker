@@ -1,0 +1,129 @@
+/*******************************************************************************
+ufave.css
+*******************************************************************************/
+
+div.ufave
+{
+	margin: 0px;
+	border: none;
+	padding: 0px;
+
+	height: 1%;
+
+	background: transparent;
+	
+	text-align: left;
+	vertical-align: middle;
+	
+	font-family: verdana, arial;
+	font-size: 12px;
+}
+
+div.ufave a
+{
+	text-decoration: none;
+	
+	font-family: verdana, arial;
+}
+
+div.ufave a:hover
+{
+	text-decoration: underline;
+}
+
+div.ufave div.title
+{
+	margin: 0px;
+	border: none;
+	padding: 0px;
+
+	height: 1%;
+
+	background: transparent;
+	
+	vertical-align: auto;
+
+	font-weight: bold;
+}
+
+div.ufave div.linkbuttons
+{
+	margin: 0px;
+	border: none;
+	padding: 2px;
+
+	height: 1%;
+
+	background: transparent;
+	
+	vertical-align: auto;
+}
+
+div.ufave div.linkbuttons a
+{
+	margin: 0px;
+	border: none;
+	padding: 2px;
+
+	height: 1%;
+
+	background: transparent;
+	
+	vertical-align: auto;
+}
+
+div.ufave div.linkbuttons a:hover
+{
+}
+
+div.ufave div.linkbuttons a img
+{
+	margin: 0px;
+	border: none;
+	padding: 0px;
+
+	background: transparent;
+	opacity: 0.5;
+	filter:alpha(opacity=50); 
+	
+	vertical-align: auto;
+}
+
+div.ufave div.linkbuttons a:hover img
+{
+	opacity: 1;
+	filter:alpha(opacity=100); 
+}
+
+div.ufave div.brand
+{
+	margin: 0px;
+	border: none;
+	padding: 2px;
+
+	height: 1%;
+
+	background: transparent;
+	
+	vertical-align: auto;
+}
+
+div.ufave div.brand a
+{
+	margin: 0px;
+	border: none;
+	padding: 0px;
+
+	height: 1%;
+
+	background: transparent;
+	
+	vertical-align: auto;
+
+	color: gray;
+	font-weight: normal;
+}
+
+div.ufave div.brand a:hover
+{
+}
